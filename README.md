@@ -40,6 +40,7 @@ The main objective of this challenge is to test your skills in Front-end Develop
 > Tip: Create coherent commits that tell the story of your project.
 
 # User Story
+You will build an application to search for bands and artists using the [APIs do Youtube](https://developers.google.com/youtube/v3/getting-started) e [TicketMaster](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/).
 
 It is a simple application, where we will search for a specific artist or band in order to have access to the Youtube videos returned by the search and also the data of this band requested through the Ticketmaster API.
 
