@@ -31,7 +31,7 @@ The main objective of this challenge is to test your skills in Front-end Develop
 - Feedback on the challenge based on solid arguments.
 - Special care with optimization, SEO, among others;
 
-# Instruções
+# Intructions
 
 - Create a new fork of this project and a branch with your first-last name and make a pull request when you're done; 
 - We'll do code review;
