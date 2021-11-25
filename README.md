@@ -1,7 +1,4 @@
-﻿<p align="center">
-  <img src="Ion_Logo_Color_Tagline.svg" width="200" alt="ION By Rock Content">
-</p>
-
+﻿
 # Technical Test for Front End Engineer
 
 We focus here on JavaScript code design and design patterns. The objective is to evaluate your experience in writing code that is intelligible, easy to maintain, loosely coupled, with accessibility and high cohesion.
