@@ -43,3 +43,12 @@ function showInformation(data) {
     document.querySelector('.result').style.display = 'block';
 }
 
+
+function showWarning(msg) {
+    document.querySelector('.warning').innerHTML = msg;
+}
+
+function clearInformation() {
+    showWarning('');
+    document.querySelector('.result').style.display = 'none';
+}
